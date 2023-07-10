@@ -11,7 +11,7 @@ i have used cooolers site for my color pallete inspiration
 
 # screenshot &  link to deployed application
 
-![Alt text](Screenshot%202023-05-31%20at%209.59.11%20pm.png)
+![Alt text](portfolio.png)
 
 
 # Author & Avknlowledgement 
@@ -22,7 +22,11 @@ i would like to thank  all TA's & my Tutor who supported me to complete this cha
 
 n/a
 
-#License
+# License
 
-Please refer to the LICENSE in the repo.
+Public
+
+## Test & Deployment 
+
+url : https://msadio8.github.io/Advanced-CSS-Challenge-Professional-Portfolio/
 
