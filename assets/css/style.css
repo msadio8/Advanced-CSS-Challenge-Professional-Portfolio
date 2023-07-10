@@ -9,7 +9,16 @@ html{
 }
 
 body {
-    background-color: #000;
+    background-image: url("../images/web-development-4202909_640.png");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Quicksand', sans-serif;
+
+    
+    
 }
 
 header {
@@ -17,10 +26,10 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    color: #fff;
+    color: #000;
 }
 header h1 {
-    color: #fff;
+    color: #000;
     font-size: 48px;
 }
 
@@ -38,25 +47,16 @@ header nav ul li a:hover{
 }
 
 a {
-    text-decoration: none;
-    color: #fff;
+    text-decoration: #000;
+    color: #000;
 }
 
 p, h2 {
-    color: white;
+    color:#000 ;
 }
 li {
     list-style: none;
-}
-
-.hero {
-    height: 400px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/img18.jpg");
-    background-size: cover;
-    background-position: center;
-    
+    text-align: justify center;
 }
 
 main {
@@ -70,14 +70,14 @@ section{
     display: flex;
     border-style: solid;
     margin-bottom: 40px;
-    background-color:#005f73;
+    background-color:rgba(244, 233, 205, 0.7);;
     border-radius: 20px;
     
    
 }
 
 section h1{
-    color: white;
+    color: #000;
     
 }
 
@@ -95,21 +95,27 @@ section h1{
 
 
 .about-content img{
-    max-height: 150px;
+    max-height: 480px;
     cursor: pointer;
     transition: 400px; ;
-    border-radius: 50%;
+    border-radius: 28px;
     margin-left: 60px;
     margin-bottom: 60px;
-
+    
 }
 
 .MyWork-content img {
-    max-height: 150px;
+    max-height: 350px;
     cursor: pointer;
     transition: 400px; ;
-    margin-left: 60px;
-    margin-bottom: 60px;
+    /* margin-left: 60px; */
+    /* margin-bottom: 60px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    /* width: 50%; */
+    
     
 }
 
