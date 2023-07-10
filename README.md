@@ -11,7 +11,7 @@ i have used cooolers site for my color pallete inspiration
 
 # screenshot &  link to deployed application
 
-![Alt text](portfolio.png)
+![Alt text](assets/images/portfolio.png)
 
 
 # Author & Avknlowledgement 
