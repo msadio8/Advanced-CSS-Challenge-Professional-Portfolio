@@ -13,6 +13,10 @@ i have used cooolers site for my color pallete inspiration
 
 ![Alt text](assets/images/portfolio.png)
 
+![Alt text](assets/images/image124.png)
+
+![Alt text](assets/images/image8975.png)
+
 
 # Author & Avknlowledgement 
 
