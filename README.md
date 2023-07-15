@@ -31,4 +31,7 @@ MIT Public
 
 ## Test & Deployment
 
-[click here 👉🏻 :] (https://msadio8.github.io/Advanced-CSS-Challenge-Professional-Portfolio/)to check My Porfolio.
+[click here 👉🏻 :to check My Porfolio][def]
+
+
+[def]: https://msadio8.github.io/Advanced-CSS-Challenge-Professional-Portfolio/
