@@ -9,7 +9,7 @@ Use VS code tocreate my page for this challenge create repo in github then clone
 i have used pixaby for the images i used .
 i have used cooolers site for my color pallete inspiration
 
-# screenshot &  link to deployed application
+# screenshot & link to deployed application
 
 ![Alt text](assets/images/portfolio.png)
 
@@ -17,12 +17,11 @@ i have used cooolers site for my color pallete inspiration
 
 ![Alt text](assets/images/image8975.png)
 
+# Author & Avknlowledgement
 
-# Author & Avknlowledgement 
+i would like to thank all TA's & my Tutor who supported me to complete this challenge
 
-i would like to thank  all TA's & my Tutor who supported me to complete this challenge
-
-# Credits 
+# Credits
 
 n/a
 
@@ -30,7 +29,6 @@ n/a
 
 Public
 
-## Test & Deployment 
+## Test & Deployment
 
-url : https://msadio8.github.io/Advanced-CSS-Challenge-Professional-Portfolio/
-
+[click here 👉🏻] : (Professional Portfolio)
