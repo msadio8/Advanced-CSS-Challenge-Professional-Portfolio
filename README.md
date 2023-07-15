@@ -27,8 +27,8 @@ n/a
 
 # License
 
-Public
+MIT Public
 
 ## Test & Deployment
 
-[click here 👉🏻] : (Professional Portfolio)
+[click here 👉🏻 : Professional Portfolio] (https://msadio8.github.io/Advanced-CSS-Challenge-Professional-Portfolio/)
